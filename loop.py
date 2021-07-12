@@ -1,4 +1,5 @@
 # just testing
 
-for i in "abc":
-  print(i)
+def cus_loop(x):
+  for i in x:
+    print(i)
